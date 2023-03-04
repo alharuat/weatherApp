@@ -1,0 +1,6 @@
+framework module Pods_ExomindWeather {
+  umbrella header "Pods-ExomindWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}

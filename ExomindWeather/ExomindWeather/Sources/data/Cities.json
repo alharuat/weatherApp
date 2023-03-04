@@ -1,0 +1,43 @@
+[
+    {
+        "coord": {
+          "lon": -1.67429,
+          "lat": 48.11198
+        },
+        "country": "FR",
+        "name": "Rennes"
+      },
+     {
+        "coord": {
+          "lon": 2.3488,
+          "lat": 48.853409
+        },
+        "country": "FR",
+        "name": "Paris"
+      },
+
+     {
+        "coord": {
+          "lon": -1.55336,
+          "lat": 47.217251
+        },
+        "country": "FR",
+        "name": "Nantes"
+      },
+     {
+        "coord": {
+          "lon": -0.5805,
+          "lat": 44.840439
+        },
+        "country": "FR",
+        "name": "Bordeaux"
+      },
+     {
+        "coord": {
+          "lon": 4.84671,
+          "lat": 45.748459
+        },
+        "country": "FR",
+        "name": "Lyon"
+      }
+]
