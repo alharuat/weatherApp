@@ -290,7 +290,6 @@
 		009DF8A729B32F0F009D6242 /* common */ = {
 			isa = PBXGroup;
 			children = (
-				009DF8A929B32F30009D6242 /* Extensions */,
 				009DF8A829B32F23009D6242 /* Types */,
 			);
 			path = common;
@@ -303,13 +302,6 @@
 				009DF8AC29B32F69009D6242 /* UnitsNotation.swift */,
 			);
 			path = Types;
-			sourceTree = "<group>";
-		};
-		009DF8A929B32F30009D6242 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Extensions;
 			sourceTree = "<group>";
 		};
 		009DF8AE29B32FC8009D6242 /* Models */ = {
